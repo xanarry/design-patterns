@@ -1,4 +1,4 @@
-package xanarry.factory_method_pattern;
+package pattern.creational.factory_method_pattern;
 
 public class Test {
     public static void main(String[] args) {

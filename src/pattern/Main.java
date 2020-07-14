@@ -1,4 +1,4 @@
-package xanarry;
+package pattern;
 
 public class Main {
 

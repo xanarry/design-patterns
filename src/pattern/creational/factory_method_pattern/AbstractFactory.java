@@ -1,4 +1,4 @@
-package xanarry.factory_method_pattern;
+package pattern.creational.factory_method_pattern;
 
 /*
 在工厂方法模式中，工厂方法用来创建客户所需要的产品，同时还向客户隐藏了哪种具体产
